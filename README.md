@@ -1,2 +1,2 @@
 # numeric
-Created while helping a friend in university out.
+Created in 2019 while helping a friend from university out with a math problem.
